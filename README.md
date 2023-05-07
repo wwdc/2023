@@ -18,3 +18,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |Sample Entry|[GitHub](https://github.com/wwdc/2023)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|UIKit, SpriteKit, Core Motion|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo) | [GitHub](https://github.com/devjoseadolfo/LogicBoard) | [YouTube](https://youtu.be/Pg_R5nvF2Tw) | SwiftUI, SpriteKit, UIKit |Submitted|
+|[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Submitted|
