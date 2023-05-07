@@ -20,3 +20,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Henri Bredt](https://twitter.com/henricreates) | [GitHub](https://github.com/henribredt) | [YouTube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0) | SwiftUI |Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo) | [GitHub](https://github.com/devjoseadolfo/LogicBoard) | [YouTube](https://youtu.be/Pg_R5nvF2Tw) | SwiftUI, SpriteKit, UIKit |Submitted|
 |[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Submitted|
+|[Riccardo Persello](https://github.com/persello) | [GitHub](https://github.com/persello/ssc23) | | Accelerate, AVFoundation, SwiftUI, Vision | Submitted |
