@@ -21,3 +21,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo) | [GitHub](https://github.com/devjoseadolfo/LogicBoard) | [YouTube](https://youtu.be/Pg_R5nvF2Tw) | SwiftUI, SpriteKit, UIKit |Submitted|
 |[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Submitted|
 |[Riccardo Persello](https://github.com/persello) | [GitHub](https://github.com/persello/ssc23) | | Accelerate, AVFoundation, SwiftUI, Vision | Submitted |
+| [Vincent Cai](https://www.instagram.com/vince14genius_0/) | [GitHub](https://github.com/Vince14Genius/My-WWDC-Swift-Student-Challenge-submissions) | | SwiftUI | Accepted |
