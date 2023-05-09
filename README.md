@@ -22,3 +22,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Submitted|
 |[Riccardo Persello](https://github.com/persello) | [GitHub](https://github.com/persello/ssc23) | | Accelerate, AVFoundation, SwiftUI, Vision | Submitted |
 |[Rithul Kamesh](https://github.com/rithulkamesh) | [GitHub](https://github.com/rithulkamesh/fitness) | | SwiftUI  | Submitted |
+|[Ziady Mubaraq](https://github.com/ziterz) | [GitHub](https://github.com/ziterz/WWDC23-WPAP) | | SwiftUI, UIKit  | Accepted |
