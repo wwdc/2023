@@ -16,7 +16,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2023)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
-|David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|UIKit, SpriteKit, Core Motion|Submitted|
+|David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|UIKit, SpriteKit, Core Motion|Accepted|
 |[Henri Bredt](https://twitter.com/henricreates) | [GitHub](https://github.com/henribredt) | [YouTube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0) | SwiftUI |Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo) | [GitHub](https://github.com/devjoseadolfo/LogicBoard) | [YouTube](https://youtu.be/Pg_R5nvF2Tw) | SwiftUI, SpriteKit, UIKit |Submitted|
 |[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Submitted|
