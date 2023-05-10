@@ -29,3 +29,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Rithul Kamesh](https://github.com/rithulkamesh) | [GitHub](https://github.com/rithulkamesh/fitness) | | SwiftUI | Submitted |
 |[Yanan Li](https://github.com/liyanan2004) | | [YouTube](https://youtu.be/2CStbcJK0qM) | SwiftUI, Swift Charts | Submitted |
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)| |SwiftUI, UIKit|Rejected|
+|[Jinha Byeon](https://github.com/Byeonjinha) | [GitHub](https://github.com/Byeonjinha/MyStarryCompanion) | [YouTube](https://www.youtube.com/watch?v=9WZQ4pwnIjo) |  SwiftUI | Submitted |
