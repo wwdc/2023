@@ -27,5 +27,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Accepted|
 |[Riccardo Persello](https://github.com/persello) | [GitHub](https://github.com/persello/ssc23) | | Accelerate, AVFoundation, SwiftUI, Vision | Submitted |
 |[Rithul Kamesh](https://github.com/rithulkamesh) | [GitHub](https://github.com/rithulkamesh/fitness) | | SwiftUI | Submitted |
+|[René Martínez Villaseñor](https://github.com/dmcpacks) | [GitHub](https://github.com/dmcpacks/mexicoclicker) | [YouTube](https://www.youtube.com/watch?v=9eQXIoK-RDg) | SwiftUI, AVFoundation, AVKit | Accepted |
 |[Yanan Li](https://github.com/liyanan2004) | | [YouTube](https://youtu.be/2CStbcJK0qM) | SwiftUI, Swift Charts | Submitted |
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)| |SwiftUI, UIKit|Rejected|
