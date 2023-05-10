@@ -29,3 +29,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Rithul Kamesh](https://github.com/rithulkamesh) | [GitHub](https://github.com/rithulkamesh/fitness) | | SwiftUI | Submitted |
 |[Yanan Li](https://github.com/liyanan2004) | | [YouTube](https://youtu.be/2CStbcJK0qM) | SwiftUI, Swift Charts | Submitted |
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)| |SwiftUI, UIKit|Rejected|
+|[JiaXiang Lu](https://github.com/sdfsdfsv) | [GitHub](https://github.com/sdfsdfsv/The-Mountain-Wwdc23)| | SwiftUI, MetalKit | Submitted |
