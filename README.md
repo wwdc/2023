@@ -16,6 +16,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |Sample Entry|[GitHub](https://github.com/wwdc/2023)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
+|[Alessandro Bortoluzzi](https://twitter.com/borto_ale)|[GitHub](https://github.com/BortoAle/Loop)||SwiftUI|Accepted|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/HandSignal)||SwiftUI, CoreML|Accepted|
 |[Amelia While](https://github.com/elihwyma) | [GitHub](https://github.com/elihwyma/WWDC2023-Semaphores) | | UIKit, AVFoundation, Vision |Submitted|
 |[Chongin Jeong](https://github.com/chongin12) | [GitHub](https://github.com/chongin12/Sometimes) | [YouTube](https://www.youtube.com/watch?v=qT3PcCvPN44) | SwiftUI, AVFoundation, SpriteKit | Submitted |
