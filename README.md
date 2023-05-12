@@ -19,6 +19,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/HandSignal)||SwiftUI, CoreML|Accepted|
 |[Amelia While](https://github.com/elihwyma) | [GitHub](https://github.com/elihwyma/WWDC2023-Semaphores) | | UIKit, AVFoundation, Vision |Submitted|
 |[Chongin Jeong](https://github.com/chongin12) | [GitHub](https://github.com/chongin12/Sometimes) | [YouTube](https://www.youtube.com/watch?v=qT3PcCvPN44) | SwiftUI, AVFoundation, SpriteKit | Submitted |
+|[Daniel Aprillio](https://github.com/Nielioo) | [GitHub](https://github.com/Nielioo/Spectrum) | | SwiftUI, AVFoundation | Submitted |
 |[Daniel Riege](https://github.com/danielriege)| [GitHub](https://github.com/danielriege/WWDC23-Submission) | | simd, SceneKit, SwiftUI | Accepted |
 |David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|UIKit, SpriteKit, Core Motion|Submitted|
 |[Henri Bredt](https://twitter.com/henricreates) | [GitHub](https://github.com/henribredt) | [YouTube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0) | SwiftUI |Submitted|
