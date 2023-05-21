@@ -25,6 +25,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[John Seong](https://johnseong.info) | [GitHub](https://github.com/wonmor/Atomizer-Swift-Challenge) | [YouTube](https://www.youtube.com/watch?v=kHcdvyaqslU) | SwiftUI, SceneKit, ARKit, Vision |Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo) | [GitHub](https://github.com/devjoseadolfo/LogicBoard) | [YouTube](https://youtu.be/Pg_R5nvF2Tw) | SwiftUI, SpriteKit, UIKit |Accepted|
 |[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Accepted|
+|[Raphael Kitahara](https://github.com/raphaelfk) | [GitHub](https://github.com/raphaelfk/wwdc23) || SwiftUI | Accepted|
 |[Riccardo Persello](https://github.com/persello) | [GitHub](https://github.com/persello/ssc23) | | Accelerate, AVFoundation, SwiftUI, Vision | Submitted |
 |[Rithul Kamesh](https://github.com/rithulkamesh) | [GitHub](https://github.com/rithulkamesh/fitness) | | SwiftUI | Submitted |
 |[Yanan Li](https://github.com/liyanan2004) | | [YouTube](https://youtu.be/2CStbcJK0qM) | SwiftUI, Swift Charts | Submitted |
