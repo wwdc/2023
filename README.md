@@ -18,6 +18,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |Sample Entry|[GitHub](https://github.com/wwdc/2023)|[YouTube](https://youtu.be/dQw4w9WgXcQ)|SwiftUI, AVFoundation|Submitted|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/HandSignal)||SwiftUI, CoreML|Accepted|
 |[Amelia While](https://github.com/elihwyma) | [GitHub](https://github.com/elihwyma/WWDC2023-Semaphores) | | UIKit, AVFoundation, Vision |Submitted|
+|[Carlos Mbendera](https://github.com/carlosmbe)|[GitHub](https://github.com/carlosmbe/Rhythm-Snap)||SwiftUI, Vision, AVFoundation|Accepted|
 |[Chongin Jeong](https://github.com/chongin12) | [GitHub](https://github.com/chongin12/Sometimes) | [YouTube](https://www.youtube.com/watch?v=qT3PcCvPN44) | SwiftUI, AVFoundation, SpriteKit | Submitted |
 |[Daniel Riege](https://github.com/danielriege)| [GitHub](https://github.com/danielriege/WWDC23-Submission) | | simd, SceneKit, SwiftUI | Accepted |
 |David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|UIKit, SpriteKit, Core Motion|Submitted|
@@ -29,4 +30,3 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Rithul Kamesh](https://github.com/rithulkamesh) | [GitHub](https://github.com/rithulkamesh/fitness) | | SwiftUI | Submitted |
 |[Yanan Li](https://github.com/liyanan2004) | | [YouTube](https://youtu.be/2CStbcJK0qM) | SwiftUI, Swift Charts | Submitted |
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)| |SwiftUI, UIKit|Rejected|
-|[Carlos Mbendera](https://github.com/carlosmbe)|[GitHub](https://github.com/carlosmbe/Rhythm-Snap)||SwiftUI, Vision, AVFoundation|Accepted|
