@@ -27,6 +27,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2023/edit/mai
 |[Juraj Kebis](https://github.com/vector23) | [GitHub](https://github.com/vector23/Planties) | | SwiftUI, SpriteKit, UIKit |Submitted|
 |[Myung Geun Choi](https://github.com/mgdgc)|[Github](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|Accepted|
 |[Riccardo Persello](https://github.com/persello) | [GitHub](https://github.com/persello/ssc23) | | Accelerate, AVFoundation, SwiftUI, Vision | Submitted |
+|[Vincent Cai](https://www.instagram.com/vince14genius_0/) | [GitHub](https://github.com/Vince14Genius/My-WWDC-Swift-Student-Challenge-submissions) | | SwiftUI | Accepted |
 |[Rithul Kamesh](https://github.com/rithulkamesh) | [GitHub](https://github.com/rithulkamesh/fitness) | | SwiftUI | Submitted |
 |[Yanan Li](https://github.com/liyanan2004) | | [YouTube](https://youtu.be/2CStbcJK0qM) | SwiftUI, Swift Charts | Submitted |
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)| |SwiftUI, UIKit|Rejected|
