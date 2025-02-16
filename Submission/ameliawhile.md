@@ -1,5 +1,5 @@
 Name: Amelia While
-Status: Submitted
+Status: Accepted
 Technologies: UIKit, AVFoundation, Vision
 
 AboutMeUrl: https://github.com/elihwyma
