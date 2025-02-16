@@ -1,9 +1,9 @@
-Name: Samion Suwito
-Status: Accepted
-Technologies: SwiftUI, SpriteKit, Core Graphics
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/isitusnoamow
-SourceUrl: https://github.com/isitusnoamow/cells-wwdc2023
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
