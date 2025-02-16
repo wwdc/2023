@@ -1,9 +1,9 @@
-Name: Bryan
-Status: Accepted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/bryanless
-SourceUrl: https://github.com/bryanless/Assembly-Playground
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
