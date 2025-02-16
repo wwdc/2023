@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Dohyun Kim
+Status: Accepted
+Technologies: SwiftUI, UIKit, ARKit, RealityKit, Vision
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/a-mystic
+SourceUrl: https://github.com/a-mystic/WWDC2
 VideoUrl:
 
 <!---
