@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Omar Abu Sharar
+Status: Accepted
+Technologies: SwiftUI, SpriteKit
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://github.com/omarabusharar
+SourceUrl: https://github.com/omarabusharar/ssc-2023
+VideoUrl: https://www.youtube.com/watch?v=aL7OD8BxTJ8
 
 <!---
 EXAMPLE
