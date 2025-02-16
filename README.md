@@ -44,5 +44,6 @@ If you would like to update your submission status please find your file in `Sub
 |[Yanan Li](https://github.com/liyanan2004)|-|[YouTube](https://youtu.be/2CStbcJK0qM)|SwiftUI, Swift Charts|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)|-|SwiftUI, UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 29 | Accepted: 18
+##### Total: 30 | Accepted: 18
