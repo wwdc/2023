@@ -30,6 +30,7 @@ If you would like to update your submission status please find your file in `Sub
 |[José María PF](https://github.com/clxsrdev)|[GitHub](https://github.com/clxsrdev/Mixin-UP)|[YouTube](https://youtu.be/qkMU5xHEZ_8)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Juraj Kebis](https://github.com/vector23)|[GitHub](https://github.com/vector23/Planties)|-|SwiftUI, SpriteKit, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Myung Geun Choi](https://github.com/mgdgc)|[GitHub](https://github.com/mgdgc/earth-debugger)|[YouTube](https://youtu.be/prc4jeNdFfA)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Omar Abu Sharar](https://github.com/omarabusharar)|[GitHub](https://github.com/omarabusharar/ssc-2023)|[YouTube](https://www.youtube.com/watch?v=aL7OD8BxTJ8)|SwiftUI, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[René Martínez Villaseñor](https://github.com/dmcpacks)|[GitHub](https://github.com/dmcpacks/mexicoclicker)|[YouTube](https://www.youtube.com/watch?v=9eQXIoK-RDg)|SwiftUI, AVFoundation, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc23)|-|Accelerate, AVFoundation, SwiftUI, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Rithul Kamesh](https://github.com/rithulkamesh)|[GitHub](https://github.com/rithulkamesh/fitness)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -39,4 +40,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)|-|SwiftUI, UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 23 | Accepted: 14
+##### Total: 24 | Accepted: 15
