@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Frank Chu
+Status: Submitted
+Technologies: Swift Regex, RegexBuilder
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://twitter.com/cyongfrank
+SourceUrl: https://github.com/yongfrank/regexgo
+VideoUrl: https://www.youtube.com/watch?v=nNWsuZMPHtk
 
 <!---
 EXAMPLE
