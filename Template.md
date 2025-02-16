@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Yunho Oh
+Status: Rejected
+Technologies: SwiftUI, AVFoundation
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/helloyunho
+SourceUrl: https://github.com/helloyunho/sound-playgrounds
 VideoUrl:
 
 <!---
