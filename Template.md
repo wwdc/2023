@@ -1,9 +1,9 @@
-Name: Jonathan
-Status: Accepted
-Technologies: SwiftUI, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://fuzzynat26.github.io/personal/
-SourceUrl: https://github.com/FuzzyNat26/light-pollution
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
