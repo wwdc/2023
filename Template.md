@@ -1,9 +1,9 @@
-Name: Fred P
-Status: Accepted
-Technologies: SwiftUI, UIKit, SceneKit, ARKit
+Name:
+Status:
+Technologies:
 
 AboutMeUrl:
-SourceUrl: https://github.com/fredpi/WWDC2023
+SourceUrl:
 VideoUrl:
 
 <!---
