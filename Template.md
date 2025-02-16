@@ -1,9 +1,9 @@
-Name: JiaXiang Lu
-Status: Submitted
-Technologies: SwiftUI, MetalKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/sdfsdfsv
-SourceUrl: https://github.com/sdfsdfsv/The-Mountain-Wwdc23
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
