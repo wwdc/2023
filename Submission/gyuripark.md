@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Gyuri Park
+Status: Accepted
+Technologies: SwiftUI, SpriteKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/GYURI-PARK
+SourceUrl: https://github.com/GYURI-PARK/WWDC2023
 VideoUrl:
 
 <!---
