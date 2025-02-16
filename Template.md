@@ -1,10 +1,10 @@
-Name: Xianhao Liu
-Status: Rejected
-Technologies: SwiftUI, UIKit, PencilKit, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/Carton22
-SourceUrl: https://github.com/Carton22/Handbot
-VideoUrl: https://youtu.be/AQyzqk6_YjY
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
