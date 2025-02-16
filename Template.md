@@ -1,10 +1,10 @@
-Name: René Martínez Villaseñor
-Status: Accepted
-Technologies: SwiftUI, AVFoundation, AVKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/dmcpacks
-SourceUrl: https://github.com/dmcpacks/mexicoclicker
-VideoUrl: https://www.youtube.com/watch?v=9eQXIoK-RDg
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
