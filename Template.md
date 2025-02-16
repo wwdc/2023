@@ -1,9 +1,9 @@
-Name: Jong Myeong Ha
-Status: Accepted
-Technologies: SwiftUI, AVFoundation, Accerate, Combine
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/hhajime
-SourceUrl: https://github.com/hhajime/Sensit-WWDC-2023-Swift-Student-Challenge
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
