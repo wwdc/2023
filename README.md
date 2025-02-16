@@ -24,6 +24,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Dayeon Moon](https://github.com/dayo2n)|[GitHub](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=NY2yq6vh-M0&t=3s)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Dohyun Kim](https://github.com/a-mystic)|[GitHub](https://github.com/a-mystic/WWDC2)|-|SwiftUI, UIKit, ARKit, RealityKit, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Frank Chu](https://twitter.com/cyongfrank)|[GitHub](https://github.com/yongfrank/regexgo)|[YouTube](https://www.youtube.com/watch?v=nNWsuZMPHtk)|Swift Regex, RegexBuilder|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Gyuri Park](https://github.com/GYURI-PARK)|[GitHub](https://github.com/GYURI-PARK/WWDC2023)|-|SwiftUI, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Henri Bredt](https://twitter.com/henricreates)|[GitHub](https://github.com/henribredt)|[YouTube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Jinha Byeon](https://github.com/Byeonjinha)|[GitHub](https://github.com/Byeonjinha/MyStarryCompanion)|[YouTube](https://www.youtube.com/watch?v=9WZQ4pwnIjo)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[John Seong](https://johnseong.info)|[GitHub](https://github.com/wonmor/Atomizer-Swift-Challenge)|[YouTube](https://www.youtube.com/watch?v=kHcdvyaqslU)|SwiftUI, SceneKit, ARKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -44,4 +45,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)|-|SwiftUI, UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 28 | Accepted: 17
+##### Total: 29 | Accepted: 18
