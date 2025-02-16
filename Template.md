@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Ungjae Lee
+Status: Accepted
+Technologies: SwiftUI, PencilKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/NuPlay
+SourceUrl: https://github.com/NuPlay/DropUI
 VideoUrl:
 
 <!---
