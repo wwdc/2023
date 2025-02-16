@@ -19,7 +19,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Amelia While](https://github.com/elihwyma)|[GitHub](https://github.com/elihwyma/WWDC2023-Semaphores)|-|UIKit, AVFoundation, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Chongin Jeong](https://github.com/chongin12)|[GitHub](https://github.com/chongin12/Sometimes)|[YouTube](https://www.youtube.com/watch?v=qT3PcCvPN44)|SwiftUI, AVFoundation, SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Daniel Riege](https://github.com/danielriege)|[GitHub](https://github.com/danielriege/WWDC23-Submission)|-|simd, SceneKit, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
-|David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|simd, SceneKit, SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|simd, SceneKit, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Henri Bredt](https://twitter.com/henricreates)|[GitHub](https://github.com/henribredt)|[YouTube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[John Seong](https://johnseong.info)|[GitHub](https://github.com/wonmor/Atomizer-Swift-Challenge)|[YouTube](https://www.youtube.com/watch?v=kHcdvyaqslU)|SwiftUI, SceneKit, ARKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo)|[GitHub](https://github.com/devjoseadolfo/LogicBoard)|[YouTube](https://youtu.be/Pg_R5nvF2Tw)|SwiftUI, SpriteKit, UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -34,4 +34,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yi Cao](https://github.com/xiaoyu2006)|[GitHub](https://github.com/xiaoyu2006/IFS)|-|SwiftUI, UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 18 | Accepted: 9
+##### Total: 18 | Accepted: 10
