@@ -16,7 +16,7 @@ If you would like to update your submission status please find your file in `Sub
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/HandSignal)|-|SwiftUI, CoreML|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
-|[Amelia While](https://github.com/elihwyma)|[GitHub](https://github.com/elihwyma/WWDC2023-Semaphores)|-|UIKit, AVFoundation, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Amelia While](https://github.com/elihwyma)|[GitHub](https://github.com/elihwyma/WWDC2023-Semaphores)|-|UIKit, AVFoundation, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Bill Chen](https://github.com/billchen2k)|[GitHub](https://github.com/billchen2k/HiSynth)|-|SwiftUI, AVFoundation, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Bryan](https://github.com/bryanless)|[GitHub](https://github.com/bryanless/Assembly-Playground)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Chongin Jeong](https://github.com/chongin12)|[GitHub](https://github.com/chongin12/Sometimes)|[YouTube](https://www.youtube.com/watch?v=qT3PcCvPN44)|SwiftUI, AVFoundation, SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
@@ -50,4 +50,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 34 | Accepted: 21
+##### Total: 34 | Accepted: 22
