@@ -1,5 +1,5 @@
 Name: David Mazzeo
-Status: Submitted
+Status: Accepted
 Technologies: simd, SceneKit, SwiftUI
 
 AboutMeUrl:
