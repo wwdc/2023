@@ -1,0 +1,18 @@
+Name: Dohyun Kim
+Status: Accepted
+Technologies: SwiftUI, UIKit, ARKit, RealityKit, Vision
+
+AboutMeUrl: https://github.com/a-mystic
+SourceUrl: https://github.com/a-mystic/WWDC2
+VideoUrl:
+
+<!---
+EXAMPLE
+Name: John Appleseed
+Status: Submitted <or> Winner <or> Distinguished <or> Rejected
+Technologies: SwiftUI, RealityKit, CoreGraphic
+
+AboutMeUrl: https://linkedin.com/in/johnappleseed
+SourceUrl: https://github.com/johnappleseed/wwdc2025
+VideoUrl: https://youtu.be/ABCDE123456
+-->
