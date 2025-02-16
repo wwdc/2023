@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Jinha Byeon
+Status: Submitted
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://github.com/Byeonjinha
+SourceUrl: https://github.com/Byeonjinha/MyStarryCompanion
+VideoUrl: https://www.youtube.com/watch?v=9WZQ4pwnIjo
 
 <!---
 EXAMPLE
