@@ -1,9 +1,9 @@
-Name: Bill Chen
-Status: Accepted
-Technologies: SwiftUI, AVFoundation, SpriteKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/billchen2k
-SourceUrl: https://github.com/billchen2k/HiSynth
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
