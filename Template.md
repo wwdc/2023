@@ -1,9 +1,9 @@
-Name: Nyoman Adiwinanda
-Status: Accepted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/NyomanAdiwinanda
-SourceUrl: https://github.com/NyomanAdiwinanda/WWDC23-SwiftChallenge
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
