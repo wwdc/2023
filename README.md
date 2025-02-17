@@ -31,7 +31,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Henri Bredt](https://twitter.com/henricreates)|[GitHub](https://github.com/henribredt)|[YouTube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[JiaXiang Lu](https://github.com/sdfsdfsv)|[GitHub](https://github.com/sdfsdfsv/The-Mountain-Wwdc23)|-|SwiftUI, MetalKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Jinha Byeon](https://github.com/Byeonjinha)|[GitHub](https://github.com/Byeonjinha/MyStarryCompanion)|[YouTube](https://www.youtube.com/watch?v=9WZQ4pwnIjo)|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
-|[John Seong](https://johnseong.info)|[GitHub](https://github.com/wonmor/Atomizer-Swift-Challenge)|[YouTube](https://www.youtube.com/watch?v=kHcdvyaqslU)|SwiftUI, SceneKit, ARKit, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[John Seong](https://johnseong.info)|[GitHub](https://github.com/wonmor/Atomizer-Swift-Challenge)|[YouTube](https://www.youtube.com/watch?v=kHcdvyaqslU)|SwiftUI, SceneKit, ARKit, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Jonathan](https://fuzzynat26.github.io/personal/)|[GitHub](https://github.com/FuzzyNat26/light-pollution)|-|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Jong Myeong Ha](https://github.com/hhajime)|[GitHub](https://github.com/hhajime/Sensit-WWDC-2023-Swift-Student-Challenge)|-|SwiftUI, AVFoundation, Accerate, Combine|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Jose Adolfo Talactac](https://twitter.com/devjoseadolfo)|[GitHub](https://github.com/devjoseadolfo/LogicBoard)|[YouTube](https://youtu.be/Pg_R5nvF2Tw)|SwiftUI, SpriteKit, UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -51,4 +51,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 35 | Accepted: 23
+##### Total: 35 | Accepted: 24
