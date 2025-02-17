@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Paulo César de Lima Rocha
+Status: Submitted
+Technologies: SwiftUI, SpriteKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/Nyffi
+SourceUrl: https://github.com/Nyffi/WWDC23-SwiftStudentChallenge
 VideoUrl:
 
 <!---
