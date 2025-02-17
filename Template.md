@@ -1,9 +1,9 @@
-Name: Euiseo Park
-Status: Accepted
-Technologies: SwiftUI, MVVM
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/kpk0616
-SourceUrl: https://github.com/kpk0616/Gestalt
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
