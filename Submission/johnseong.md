@@ -1,5 +1,5 @@
 Name: John Seong
-Status: Submitted
+Status: Accepted
 Technologies: SwiftUI, SceneKit, ARKit, Vision
 
 AboutMeUrl: https://johnseong.info
