@@ -1,9 +1,9 @@
-Name: Gabriel Zhang
-Status: Accepted
-Technologies: SwiftUI, SpriteKit, AVKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/SLED-5
-SourceUrl: https://github.com/SLED-5/Remember-Me
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
