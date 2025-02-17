@@ -26,6 +26,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Daniel Riege](https://github.com/danielriege)|[GitHub](https://github.com/danielriege/WWDC23-Submission)|-|simd, SceneKit, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |David Mazzeo|[GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23)|[YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA)|simd, SceneKit, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Dayeon Moon](https://github.com/dayo2n)|[GitHub](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=NY2yq6vh-M0&t=3s)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Dishant Nagpal](https://github.com/Dishant10)|[GitHub](https://github.com/Dishant10/ColorFun)|[YouTube](https://youtu.be/ozhgQj-HvBE)|SwiftUI, ARKit, SceneKit, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Dohyun Kim](https://github.com/a-mystic)|[GitHub](https://github.com/a-mystic/WWDC2)|-|SwiftUI, UIKit, ARKit, RealityKit, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Euiseo Park](https://github.com/kpk0616)|[GitHub](https://github.com/kpk0616/Gestalt)|-|SwiftUI, MVVM|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Farid Azhari](https://github.com/bukanfarid)|[GitHub](https://github.com/bukanfarid/motoLean)|-|SwiftUI, CoreMotion|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -69,4 +70,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 53 | Accepted: 38
+##### Total: 54 | Accepted: 39
