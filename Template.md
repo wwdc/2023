@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Junaid Abdurahman
+Status: Rejected
+Technologies: UIKit
 
-AboutMeUrl:
+AboutMeUrl: https://twitter.com/junaidxabd
 SourceUrl:
-VideoUrl:
+VideoUrl: https://youtu.be/2CStbcJK0qM](https://youtu.be/k2dujM3D47M
 
 <!---
 EXAMPLE
