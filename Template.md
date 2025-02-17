@@ -1,9 +1,9 @@
-Name: Daniel Aprillio
-Status: Submitted
-Technologies: SwiftUI, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/Nielioo
-SourceUrl: https://github.com/Nielioo/Spectrum
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
