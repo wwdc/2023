@@ -1,9 +1,9 @@
-Name: Chenshuhao Qin
-Status: Accepted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/CodyQin
-SourceUrl: https://github.com/CodyQin/Ferryman-Puzzle
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
