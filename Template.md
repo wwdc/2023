@@ -1,9 +1,9 @@
-Name: Carlos Mbendera
-Status: Accepted
-Technologies: SwiftUI, Vision, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/carlosmbe
-SourceUrl: https://github.com/carlosmbe/Rhythm-Snap
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
