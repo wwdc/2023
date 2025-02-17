@@ -1,10 +1,10 @@
-Name: Vedant Malhotra
-Status: Accepted
-Technologies: SwiftUI, UIKit, ARKit, PencilKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/vedantapps
-SourceUrl: https://github.com/vedantapps/slidescramble
-VideoUrl: https://youtu.be/hImUT1NZHp8
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
