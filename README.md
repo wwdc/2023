@@ -27,6 +27,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Dayeon Moon](https://github.com/dayo2n)|[GitHub](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=NY2yq6vh-M0&t=3s)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Dohyun Kim](https://github.com/a-mystic)|[GitHub](https://github.com/a-mystic/WWDC2)|-|SwiftUI, UIKit, ARKit, RealityKit, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Euiseo Park](https://github.com/kpk0616)|[GitHub](https://github.com/kpk0616/Gestalt)|-|SwiftUI, MVVM|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Farid Azhari](https://github.com/bukanfarid)|[GitHub](https://github.com/bukanfarid/motoLean)|-|SwiftUI, CoreMotion|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Frank Chu](https://twitter.com/cyongfrank)|[GitHub](https://github.com/yongfrank/regexgo)|[YouTube](https://www.youtube.com/watch?v=nNWsuZMPHtk)|Swift Regex, RegexBuilder|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Fred P|[GitHub](https://github.com/fredpi/WWDC2023)|-|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Freddie Nicholson](https://fr3ddie.me/)|[GitHub](https://github.com/FreddieN/Bouncer-WWDC23)|[YouTube](https://youtu.be/XSjS0nZrEhQ)|SwiftUI, ARKit, SceneKit, CoreMotion|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
@@ -59,4 +60,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 43 | Accepted: 30
+##### Total: 44 | Accepted: 31
