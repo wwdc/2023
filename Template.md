@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Alex Cucos
+Status: Accepted
+Technologies: SwiftUI, AVKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/skiezest
+SourceUrl: https://github.com/skiezest/Learn-Morse
 VideoUrl:
 
 <!---
