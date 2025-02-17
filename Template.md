@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Kyoya Yamaguchi
+Status: Accepted
+Technologies: PencilKit, SpriteKit
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://github.com/kyoya1123
+SourceUrl: https://github.com/kyoya1123/Newtons-Notebook
+VideoUrl: https://youtu.be/2dCPEKDxhkY
 
 <!---
 EXAMPLE
