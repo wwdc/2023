@@ -15,6 +15,7 @@ If you would like to update your submission status please find your file in `Sub
 
 | Name | Source |    Video    | Technologies | Status |
 |-----:|:------:|:-----------:|:-------------|:------:|
+|[Alex Cucos](https://github.com/skiezest)|[GitHub](https://github.com/skiezest/Learn-Morse)|-|SwiftUI, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Alperen Örence](https://github.com/alperenorence)|[GitHub](https://github.com/alperenorence/HandSignal)|-|SwiftUI, CoreML|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Amelia While](https://github.com/elihwyma)|[GitHub](https://github.com/elihwyma/WWDC2023-Semaphores)|-|UIKit, AVFoundation, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Arjun Balakrishnan](https://github.com/balkarjun)|[GitHub](https://github.com/balkarjun/Ciphers)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -71,4 +72,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 55 | Accepted: 40
+##### Total: 56 | Accepted: 41
