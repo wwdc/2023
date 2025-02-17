@@ -54,6 +54,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Omar Abu Sharar](https://github.com/omarabusharar)|[GitHub](https://github.com/omarabusharar/ssc-2023)|[YouTube](https://www.youtube.com/watch?v=aL7OD8BxTJ8)|SwiftUI, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Pedro Henrique Ceccon](https://github.com/PedroCeccon)|[GitHub](https://github.com/PedroCeccon/WWDC23)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[René Martínez Villaseñor](https://github.com/dmcpacks)|[GitHub](https://github.com/dmcpacks/mexicoclicker)|[YouTube](https://www.youtube.com/watch?v=9eQXIoK-RDg)|SwiftUI, AVFoundation, AVKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Rexan Wong](https://linktr.ee/rexanwong)|[GitHub](https://github.com/RexanWONG/PhotoRush)|-|SwiftUI, CoreML, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Riccardo Persello](https://github.com/persello)|[GitHub](https://github.com/persello/ssc23)|-|Accelerate, AVFoundation, SwiftUI, Vision|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Rithul Kamesh](https://github.com/rithulkamesh)|[GitHub](https://github.com/rithulkamesh/fitness)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Samion Suwito](https://github.com/isitusnoamow)|[GitHub](https://github.com/isitusnoamow/cells-wwdc2023)|-|SwiftUI, SpriteKit, Core Graphics|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -70,4 +71,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 54 | Accepted: 39
+##### Total: 55 | Accepted: 40
