@@ -29,6 +29,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Euiseo Park](https://github.com/kpk0616)|[GitHub](https://github.com/kpk0616/Gestalt)|-|SwiftUI, MVVM|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Frank Chu](https://twitter.com/cyongfrank)|[GitHub](https://github.com/yongfrank/regexgo)|[YouTube](https://www.youtube.com/watch?v=nNWsuZMPHtk)|Swift Regex, RegexBuilder|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |Fred P|[GitHub](https://github.com/fredpi/WWDC2023)|-|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Freddie Nicholson](https://fr3ddie.me/)|[GitHub](https://github.com/FreddieN/Bouncer-WWDC23)|[YouTube](https://youtu.be/XSjS0nZrEhQ)|SwiftUI, ARKit, SceneKit, CoreMotion|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Gokul R Nair](https://twitter.com/itIsGokulNair)|[GitHub](https://twitter.com/itIsGokulNair)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Gyuri Park](https://github.com/GYURI-PARK)|[GitHub](https://github.com/GYURI-PARK/WWDC2023)|-|SwiftUI, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Henri Bredt](https://twitter.com/henricreates)|[GitHub](https://github.com/henribredt)|[YouTube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -56,4 +57,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 40 | Accepted: 28
+##### Total: 41 | Accepted: 28
