@@ -1,10 +1,10 @@
-Name: Rexan Wong
-Status: Accepted
-Technologies: SwiftUI, CoreML, Vision
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://linktr.ee/rexanwong
-SourceUrl: https://github.com/RexanWONG/PhotoRush
-VideoUrl: 
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
