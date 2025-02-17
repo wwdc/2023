@@ -1,10 +1,10 @@
-Name: Dishant Nagpal
-Status: Accepted
-Technologies: SwiftUI, ARKit, SceneKit, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/Dishant10
-SourceUrl: https://github.com/Dishant10/ColorFun
-VideoUrl: https://youtu.be/ozhgQj-HvBE
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
