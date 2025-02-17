@@ -4,7 +4,7 @@ Technologies: UIKit
 
 AboutMeUrl: https://twitter.com/junaidxabd
 SourceUrl:
-VideoUrl: https://youtu.be/2CStbcJK0qM](https://youtu.be/k2dujM3D47M
+VideoUrl: https://youtu.be/k2dujM3D47M
 
 <!---
 EXAMPLE
