@@ -20,6 +20,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Arjun Balakrishnan](https://github.com/balkarjun)|[GitHub](https://github.com/balkarjun/Ciphers)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Bill Chen](https://github.com/billchen2k)|[GitHub](https://github.com/billchen2k/HiSynth)|-|SwiftUI, AVFoundation, SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Bryan](https://github.com/bryanless)|[GitHub](https://github.com/bryanless/Assembly-Playground)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Carlos Mbendera](https://github.com/carlosmbe)|[GitHub](https://github.com/carlosmbe/Rhythm-Snap)|-|SwiftUI, Vision, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Chongin Jeong](https://github.com/chongin12)|[GitHub](https://github.com/chongin12/Sometimes)|[YouTube](https://www.youtube.com/watch?v=qT3PcCvPN44)|SwiftUI, AVFoundation, SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Daniel Aprillio](https://github.com/Nielioo)|[GitHub](https://github.com/Nielioo/Spectrum)|-|SwiftUI, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Daniel Riege](https://github.com/danielriege)|[GitHub](https://github.com/danielriege/WWDC23-Submission)|-|simd, SceneKit, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -64,4 +65,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Yujin Lee](https://github.com/yujinnee)|[GitHub](https://github.com/yujinnee/WorldHunter)|[YouTube](https://www.youtube.com/watch?v=rlxRgopwPkE)|SwiftUI, UIKit, SceneKit, ARKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Yunho Oh](https://github.com/helloyunho)|[GitHub](https://github.com/helloyunho/sound-playgrounds)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 
-##### Total: 48 | Accepted: 33
+##### Total: 49 | Accepted: 34
