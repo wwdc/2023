@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Won Geun Yu
+Status: Accepted
+Technologies: SwiftUI, UIKit, ARKit, SceneKit
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/Ryujin1210
+SourceUrl: https://github.com/Ryujin1210/WWDC2023_EyeingArt
 VideoUrl:
 
 <!---
