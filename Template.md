@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Kwansik Nam
+Status: Accepted
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/snacknam
+SourceUrl: https://github.com/snacknam/WWDC23-SSC
 VideoUrl:
 
 <!---
