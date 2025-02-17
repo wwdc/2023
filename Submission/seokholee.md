@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Seokho Lee
+Status: Accepted
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/Mercen-Lee
+SourceUrl: https://github.com/Mercen-Lee/Allergist
 VideoUrl:
 
 <!---
