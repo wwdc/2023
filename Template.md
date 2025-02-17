@@ -1,9 +1,9 @@
-Name: Woowon Kang
-Status: Accepted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/mosiccan
-SourceUrl: https://github.com/mosiccan/setup-tennis-racket
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
