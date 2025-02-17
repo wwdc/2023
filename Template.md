@@ -1,10 +1,10 @@
-Name:
-Status:
-Technologies:
+Name: Freddie Nicholson
+Status: Rejected
+Technologies: SwiftUI, ARKit, SceneKit, CoreMotion
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://fr3ddie.me/
+SourceUrl: https://github.com/FreddieN/Bouncer-WWDC23
+VideoUrl: https://youtu.be/XSjS0nZrEhQ
 
 <!---
 EXAMPLE
