@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Tanmay Goel
+Status: Accepted
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/tanmayg1502
+SourceUrl: https://github.com/tanmayg1502/Diffie-Hellman-Key-Swift-Playground
 VideoUrl:
 
 <!---
