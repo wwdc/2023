@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Pedro Henrique Ceccon
+Status: Accepted
+Technologies: SwiftUI
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/PedroCeccon
+SourceUrl: https://github.com/PedroCeccon/WWDC23
 VideoUrl:
 
 <!---
