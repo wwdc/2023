@@ -1,9 +1,9 @@
-Name: Gokul R Nair
-Status: Accepted
-Technologies: SwiftUI
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://twitter.com/itIsGokulNair
-SourceUrl: https://twitter.com/itIsGokulNair
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
