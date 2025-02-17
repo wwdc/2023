@@ -1,9 +1,9 @@
-Name:
-Status:
-Technologies:
+Name: Farid Azhari
+Status: Accepted
+Technologies: SwiftUI, CoreMotion
 
-AboutMeUrl:
-SourceUrl:
+AboutMeUrl: https://github.com/bukanfarid
+SourceUrl: https://github.com/bukanfarid/motoLean
 VideoUrl:
 
 <!---
