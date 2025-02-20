@@ -1,10 +1,10 @@
-Name: Martin Maly
-Status: Winner
-Technologies: SwiftUI, SceneKit, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://x.com/mountain_mal
-SourceUrl: https://github.com/martinmaly21/BreathPlay-WWDC
-VideoUrl: https://youtu.be/WB53KNZX9jo
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
