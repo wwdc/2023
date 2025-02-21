@@ -1,10 +1,10 @@
-Name:
+Name: Peter Yaacoub
 Status:
-Technologies:
+Technologies: AVFoundation, CoreGraphics, SpriteKit, SwiftUI
 
-AboutMeUrl:
-SourceUrl:
-VideoUrl:
+AboutMeUrl: https://github.com/Yaacoub
+SourceUrl: https://github.com/Yaacoub/Swift-Student-Challenge/tree/main/WWDC%202023
+VideoUrl: https://youtu.be/4BUhhSCweqc
 
 <!---
 EXAMPLE
