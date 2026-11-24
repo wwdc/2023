@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2023/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
 |:--|:--|:--|
 | [Alex Cucos](https://github.com/skiezest) | [GitHub](https://github.com/skiezest/Learn-Morse)<br><sub>SwiftUI, AVKit</sub> | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
 | [Alperen Örence](https://github.com/alperenorence) | [GitHub](https://github.com/alperenorence/HandSignal)<br><sub>SwiftUI, CoreML</sub> | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
