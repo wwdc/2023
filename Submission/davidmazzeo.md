@@ -1,18 +1,8 @@
 Name: David Mazzeo
 Status: Accepted
+ProjectTitle: 
 Technologies: simd, SceneKit, SwiftUI
 
-AboutMeUrl:
+AboutMeUrl: 
 SourceUrl: https://github.com/TheIntelCorei9/Swift-Student-Challenge-23
 VideoUrl: https://www.youtube.com/watch?v=ViGDWfh0ViA
-
-<!---
-EXAMPLE
-Name: John Appleseed
-Status: Submitted <or> Winner <or> Distinguished <or> Rejected
-Technologies: SwiftUI, RealityKit, CoreGraphic
-
-AboutMeUrl: https://linkedin.com/in/johnappleseed
-SourceUrl: https://github.com/johnappleseed/wwdc2025
-VideoUrl: https://youtu.be/ABCDE123456
--->
